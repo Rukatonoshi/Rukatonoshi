@@ -1,5 +1,4 @@
 ### Hi there 👋
-* 💬 My CV is stored [here](https://github.com/Rukatonoshi/Rukatonoshi/blob/main/DataScienceCV.pdf)
 <!--
 **Rukatonoshi/Rukatonoshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
